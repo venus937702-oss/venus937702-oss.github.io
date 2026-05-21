@@ -32,35 +32,23 @@ services:
   bg_title: "Services"
 
   items:
-    - title: "Web Design &amp; Logo"
-      subtitle: "Web Development"
-      text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "NETWORK SECURITY"
+      subtitle: "네트워크 보안"
+      text: "iptables/방화벽 설정, 패킷 분석, 침입 탐지 실습 경험."
+      button_label: "GitHub"
+      button_link: "https://github.com/venus937702-oss"
 
-    - title: "iOS &amp; Android"
-      subtitle: "Apps Development"
-      text: "Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "SYSTEM SECURITY"
+      subtitle: "시스템 보안"
+      text: "Linux 서버 보안 강화, 로그 분석, 취약점 점검 경험."
+      button_label: "GitHub"
+      button_link: "https://github.com/venus937702-oss"
 
-    - title: "Unity &amp; Unreal Engine"
-      subtitle: "Game Development"
-      text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
-
-    - title: "Google Ads"
-      subtitle: "Advertising"
-      text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
-
-    - title: "Sound Track"
-      subtitle: "Music Writing"
-      text: "Music copying, writing, creating, transcription and composition services."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "SECURITY TOOL"
+      subtitle: "보안 자동화"
+      text: "Python/Shell 기반 보안 모니터링 도구 개발 경험."
+      button_label: "GitHub"
+      button_link: "https://github.com/venus937702-oss"
 
 ### Skills [ skills ]
 skills:
@@ -70,33 +58,33 @@ skills:
 
   column1:
     items:
-      - label: "PHP" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "85" #0-100 progress in %
+      - label: "Linux" #0-10 progress in dots
+        text: "Ubuntu/Kali 기반 서버 구축 및 보안 설정, 시스템 관리 경험."
+        value: "50" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
+        text: "네트워크 소켓 프로그래밍, 보안 자동화 스크립트 개발 경험."
+        value: "30" #0-100 progress in %
 
   column2:
     items:
-      - label: "JavaScript" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
+      - label: "Shell Script" #0-10 progress in dots
+        text: "Bash 기반 시스템 자동화 및 로그 분석 스크립트 작성 경험."
+        value: "45" #0-100 progress in %
 
-      - label: "React" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "70" #0-100 progress in %
+      - label: "iptables" #0-10 progress in dots
+        text: "방화벽 규칙 설정, 패킷 필터링 및 트래픽 제어 실습 경험."
+        value: "65" #0-100 progress in %
 
   column3:
     items:
-      - label: "WordPress" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "90" #0-100 progress in %
+      - label: "Packet Tracer" #0-10 progress in dots
+        text: "네트워크 토폴로지 설계 및 라우팅, 스위칭 프로토콜 실습 경험."
+        value: "70" #0-100 progress in %
 
-      - label: "Adobe XD" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "80" #0-100 progress in %
+      - label: "Cloud" #0-10 progress in dots
+        text: "클라우드 환경 기반 인프라 구성 및 보안 설정 경험."
+        value: "65" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
