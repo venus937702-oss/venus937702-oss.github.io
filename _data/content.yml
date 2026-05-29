@@ -74,17 +74,17 @@ skills:
 
       - label: "iptables" #0-10 progress in dots
         text: "방화벽 규칙 설정, 패킷 필터링 및 트래픽 제어 실습 경험."
-        value: "65" #0-100 progress in %
+        value: "60" #0-100 progress in %
 
   column3:
     items:
       - label: "Packet Tracer" #0-10 progress in dots
         text: "네트워크 토폴로지 설계 및 라우팅, 스위칭 프로토콜 실습 경험."
-        value: "70" #0-100 progress in %
+        value: "65" #0-100 progress in %
 
       - label: "Cloud" #0-10 progress in dots
         text: "클라우드 환경 기반 인프라 구성 및 보안 설정 경험."
-        value: "65" #0-100 progress in %
+        value: "50" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
@@ -93,16 +93,16 @@ resume:
   bg_title: "History"
 
   education:
-    title: "Education"
+    title: "학력"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "한국폴리텍대학 강서캠퍼스"
+        subname: "사이버보안과"
+        period: "2025 - <b>재학 중</b>"
+        text: "네트워크 보안, 시스템 보안, 데이터베이스, 리눅스"
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
+      - name: "고등학교"
+        subname: "인문계열"
+        period: "2019 - 2021"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
       - name: "IT Future"
@@ -111,7 +111,7 @@ resume:
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
   experience:
-    title: "Experience"
+    title: "경력 및 활동"
     items:
       - name: "UI Head &amp; Manager"
         subname: "Soft Tech Inc."
@@ -238,22 +238,22 @@ blog:
 
 ### Contact [ contacts ]
 contacts:
-  title: "Contact Me"
-  subtitle: "Let’s <b>Talk About Ideas</b>"
+  title: "연락하기"
+  subtitle: "Let’s <b>문의하기</b>"
   bg_title: "Contact Me"
 
   list:
-    - label: "Address"
+    - label: "위치"
       icon: "far fa-map"
-      text: "North Tower, Toronto, Canada"
+      text: "서울특별시 강서구"
 
-    - label: "Freelance"
+    - label: "GitHub"
       icon: "far fa-user"
-      text: "Available Right Now"
+      text: "github.com/venus937702-oss"
 
-    - label: "Email"
+    - label: "이메일"
       icon: "far fa-envelope"
-      text: "zoe.miller@mydomain.com"
+      text: "venus937702@gmail.com"
 
     - label: "Phone"
       icon: "far fa-address-book"

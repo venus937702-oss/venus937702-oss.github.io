@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "By spite about do of do allow"
-date:   2020-08-05
-category: Music
+title:  "Python 소켓 프로그래밍 기초 — 포트 스캐너 만들기"
+date:   2026-05-15
+category: Python
 image: assets/img/blog/blog9.jpg
-author: Ryan Adlard
-tags: rock
+author: 홍길동
+tags: Python, 소켓, 네트워크, 보안
+description: "Python 소켓 모듈을 활용해 간단한 포트 스캐너를 만드는 과정을 단계별로 설명합니다."
 ---
 
 So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
