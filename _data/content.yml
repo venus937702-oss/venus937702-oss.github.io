@@ -88,8 +88,8 @@ skills:
 
 ### Resume [ resume ]
 resume:
-  title: "Resume"
-  subtitle: "my <b>Story</b>"
+  title: "이력서"
+  subtitle: "학력 및 <b>경력</b>"
   bg_title: "History"
 
   education:
